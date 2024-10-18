@@ -1,11 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() {
     const apiKeys = {
-        Home: '5b944f72f5574210b5efc22dffbce117', 
-        business: '5b944f72f5574210b5efc22dffbce117', 
-        tech: '5b944f72f5574210b5efc22dffbce117',
-        sport: '5b944f72f5574210b5efc22dffbce117',
-        politics: '5b944f72f5574210b5efc22dffbce117',
-        entertain: '5b944f72f5574210b5efc22dffbce117',
+        Home: 'api', 
+        business: 'api', 
+        tech: 'api',
+        sport: 'api',
+        politics: 'api',
+        entertain: 'api',
     };
 
     const apiUrls = {
